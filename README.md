@@ -1,3 +1,5 @@
+# DO NOT DELETE
+This module is currently used for the root account CDNs, until the fixes on the hotfix branch are upstreamed.
 
 <!-- markdownlint-disable -->
 # terraform-aws-cloudfront-s3-cdn [![Codefresh Build Status](https://g.codefresh.io/api/badges/pipeline/cloudposse/terraform-modules%2Fterraform-aws-cloudfront-s3-cdn?type=cf-1)](https://g.codefresh.io/public/accounts/cloudposse/pipelines/5d169121757962ff25679794) [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-aws-cloudfront-s3-cdn.svg)](https://travis-ci.org/cloudposse/terraform-aws-cloudfront-s3-cdn/releases) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
